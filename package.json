@@ -1,0 +1,30 @@
+{
+  "name": "issue-gcloud-esm",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eng-dibo/issue-gcloud-esm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eng-dibo/issue-gcloud-esm/issues"
+  },
+  "homepage": "https://github.com/eng-dibo/issue-gcloud-esm#readme",
+  "dependencies": {
+    "@google-cloud/storage": "^6.8.0"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1",
+    "ts-jest": "^29.0.3",
+    "ts-loader": "^9.4.2",
+    "ts-node": "^10.9.1",
+    "tsconfig-paths": "^4.1.1"
+  }
+}
