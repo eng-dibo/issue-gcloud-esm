@@ -5,7 +5,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "ts-node --esm index.ts"
   },
   "repository": {
     "type": "git",
